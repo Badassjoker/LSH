@@ -1,5 +1,5 @@
 # LSH
-You can download the dataset from http://files.grouplens.org/datasets/movielens/ml-20m.zip.
+The dataset can be downloaded from http://files.grouplens.org/datasets/movielens/ml-20m.zip.
 
 This LSH uses the rating file only.
 
