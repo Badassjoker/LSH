@@ -11,3 +11,5 @@ The get_signature.py will use tran.txt to generate signature.txt.
 At last, use lsh_mapper.py and lsh_reducer.py to get the final result file named result.txt.
 To get the result Hadoop can be used. It also can be done by typing the command in the terminal as following:
 python lsh_mapper.py | sort | python lsh_reducer.py
+
+Using prediction&RMSE.py to get the final prediction value and RMSE
